@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
-	<filename>41.jpeg</filename>
-	<path>C:\Users\ErikL\Documents\Universidad\Semestre 9\Redes Neuronales\Miniproyecto 2\object_detection\data\images\test\41.jpeg</path>
+	<filename>104.jpeg</filename>
+	<path>C:\Users\marco\Desktop\3. Redes Neuronales Artificiales y Aprendizaje Profundo\5. [Miniproyecto 2]\final_repo\object_detection_demo\data\images\test\104.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Jugo de naranja</name>
+		<name>Tomate</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>308</xmin>
-			<ymin>28</ymin>
-			<xmax>490</xmax>
-			<ymax>571</ymax>
+			<xmin>37</xmin>
+			<ymin>18</ymin>
+			<xmax>412</xmax>
+			<ymax>423</ymax>
 		</bndbox>
 	</object>
 </annotation>
