@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>8.jpeg</filename>
-	<path>C:\Users\ErikL\Documents\Universidad\Semestre 9\Redes Neuronales\Miniproyecto 2\object_detection\data\images\train\8.jpeg</path>
+	<path>C:\Users\marco\Desktop\3. Redes Neuronales Artificiales y Aprendizaje Profundo\5. [Miniproyecto 2]\final_repo\object_detection_demo\data\images\train\8.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Pollo</name>
+		<name>Repollo</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
-			<ymin>62</ymin>
+			<xmin>48</xmin>
+			<ymin>48</ymin>
 			<xmax>778</xmax>
-			<ymax>540</ymax>
+			<ymax>554</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>9.jpeg</filename>
-	<path>C:\Users\ErikL\Documents\Universidad\Semestre 9\Redes Neuronales\Miniproyecto 2\object_detection\data\images\train\9.jpeg</path>
+	<path>C:\Users\marco\Desktop\3. Redes Neuronales Artificiales y Aprendizaje Profundo\5. [Miniproyecto 2]\final_repo\object_detection_demo\data\images\train\9.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,75 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Pollo</name>
+		<name>Repollo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>114</ymin>
+			<xmax>561</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Repollo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>164</ymin>
+			<xmax>193</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Repollo</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>151</xmin>
-			<ymin>94</ymin>
-			<xmax>765</xmax>
-			<ymax>566</ymax>
+			<xmin>534</xmin>
+			<ymin>116</ymin>
+			<xmax>797</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Repollo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>1</ymin>
+			<xmax>514</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Repollo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>246</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Repollo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>511</xmin>
+			<ymin>3</ymin>
+			<xmax>800</xmax>
+			<ymax>174</ymax>
 		</bndbox>
 	</object>
 </annotation>

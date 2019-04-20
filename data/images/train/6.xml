@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>6.jpeg</filename>
-	<path>C:\Users\ErikL\Documents\Universidad\Semestre 9\Redes Neuronales\Miniproyecto 2\object_detection\data\images\train\6.jpeg</path>
+	<path>C:\Users\marco\Desktop\3. Redes Neuronales Artificiales y Aprendizaje Profundo\5. [Miniproyecto 2]\final_repo\object_detection_demo\data\images\train\6.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,51 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Pollo</name>
+		<name>Repollo</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
-			<ymin>29</ymin>
-			<xmax>767</xmax>
-			<ymax>593</ymax>
+			<xmin>7</xmin>
+			<ymin>124</ymin>
+			<xmax>333</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Repollo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>173</ymin>
+			<xmax>630</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Repollo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>484</xmin>
+			<ymin>69</ymin>
+			<xmax>799</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Repollo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>1</ymin>
+			<xmax>512</xmax>
+			<ymax>244</ymax>
 		</bndbox>
 	</object>
 </annotation>
