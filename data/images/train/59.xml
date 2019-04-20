@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>59.jpeg</filename>
+	<path>C:\Users\ErikL\Documents\Universidad\Semestre 9\Redes Neuronales\Miniproyecto 2\object_detection\data\images\train\59.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jugo de naranja</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>100</ymin>
+			<xmax>432</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>
